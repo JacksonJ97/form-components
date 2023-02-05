@@ -1,15 +1,8 @@
-# Frontend Template
+# Form Components
 
-A lightweight frontend template that can be used to start up a frontend application.
+Reusable and typesafe form components built using react-hook-forms and TypeScript
 
 ## Tools
 
-- React
-- Typescript
-- Tailwind CSS
-- Vite
-
-## Configs
-
-- Eslint (Airbnb)
-- Prettier
+- TypeScript
+- react-hook-forms
