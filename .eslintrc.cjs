@@ -23,5 +23,8 @@ module.exports = {
   },
   plugins: ["react", "@typescript-eslint", "prettier"],
   reportUnusedDisableDirectives: true,
-  rules: { "react/react-in-jsx-scope": "off" },
+  rules: {
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-props-no-spreading": "off",
+  },
 };
